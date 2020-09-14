@@ -23,7 +23,7 @@ img {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    height: 100vh;
+    height: 90vh;
 }
 button{
     margin: 30px auto 0;
