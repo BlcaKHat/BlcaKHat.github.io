@@ -15,8 +15,8 @@ body{
     font-weight: 200;
 }
 img {
-    height: 500px;
-    border-radius:50% ;
+    height: 400px;
+    border-radius:60% ;
 }
 #container  {
     display: flex;
